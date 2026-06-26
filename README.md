@@ -153,7 +153,7 @@ Team Members
 | Tadiwa Hukuimwe    | Lead AI & Application Security Developer |
 | Takudzwa Mambosasa | Secure Data & Infrastructure Engineer    |
 
-All team members are Cybersecurity seniors at **Southeast Missouri State University.
+All team members are Cybersecurity graduates from Southeast Missouri State University.
 
 
 
